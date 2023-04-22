@@ -1,6 +1,0 @@
-<!DOCTYPE html
-<html>
-<!-- Everything needs to be inside an html tag! -->
-
-
-</html>
